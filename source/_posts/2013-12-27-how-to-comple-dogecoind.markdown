@@ -54,14 +54,7 @@ rpcpassword=<PASS GIVEN>
 ./dogecoind
 ```
 
-## Some more setup (optional)
-While we do have dogecoind compiled and running, we can set it up so it is easier to run and slightly more secure (than running from the root user).
 ```
-ln -s dogecoind /bin/dogecoind # Symlinks compiled program to bin dir
-```
-
-## After you have the process running
-Now that you have dogecoin running, you can run some commands. I would start off with ```./dogecoind help```. This will return a list of all the commands that you have access to.
 
 ## For the lazy
 Here is an ami id to an amazon AMI I made that just has dogecoind compiled: ```ami-66447723```
