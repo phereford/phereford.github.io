@@ -65,6 +65,7 @@ Now that you have dogecoin running, you can run some commands. I would start off
 
 ## For the lazy
 Here is an ami id to an amazon AMI I made that just has dogecoind compiled: ```ami-66447723```
+*Edit:* Having issues publishing my AMI. Will work on that.
 
 *Note:* When you ssh into an instance with this ami, you will need to use the
 admin user and not the root user. I didn't realize this since I use Ubuntu the
