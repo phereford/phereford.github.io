@@ -54,8 +54,6 @@ rpcpassword=<PASS GIVEN>
 ./dogecoind
 ```
 
-```
-
 ## For the lazy
 Here is an ami id to an amazon AMI I made that just has dogecoind compiled: ```ami-66447723```
 *Edit:* Having issues publishing my AMI. Will work on that.
