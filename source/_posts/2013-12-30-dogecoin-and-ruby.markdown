@@ -6,7 +6,7 @@ comments: true
 categories: [Dogecoin, Ruby]
 ---
 
-*Note:* If you like this post, please feel free to leave a tip at DJ2KQgTmKofcUdB2qY2p6pcbaZMcfmh9PU.
+*Note:* If you like this post, please feel free to leave some Doge at DJ2KQgTmKofcUdB2qY2p6pcbaZMcfmh9PU.
 
 In this post, I will just talk about the basics of being able to communicate to
 the dogecoin network using Ruby. In order to do this, you must first be able to
@@ -33,3 +33,5 @@ client.balance # => Balance of user
 ## And that's all folks
 That is seriously it! Isn't that awesome! Thank you sinisterchipmunk for your 
 awesome gem.
+
+*Note:* If you like this post, please feel free to leave some Doge at DJ2KQgTmKofcUdB2qY2p6pcbaZMcfmh9PU.
