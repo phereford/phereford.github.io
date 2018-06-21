@@ -20,9 +20,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
   - {name: 'Books', link: '/books'}
+  #- {name: 'About', link: '/about'}
+  #- {name: 'Contact', link: '/contact'}
   #- {name: 'My Readme', link: '/readme'}
 
 tagline: >
