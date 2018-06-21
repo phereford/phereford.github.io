@@ -6,7 +6,6 @@ description: > # Meta description of Homepage
   All posts on this blog are my own and come from my own experience running and
   growing teams. YMMV.
 
-baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://p.hereford.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
