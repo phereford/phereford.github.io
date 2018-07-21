@@ -2,6 +2,7 @@
 layout: post
 title: "A New Beginning"
 featured-img: a-new-beginning
+image: "/assets/img/posts/a-new-beginning.jpg"
 ---
 
 ## Five Year Recap
