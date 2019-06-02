@@ -1,0 +1,8 @@
+h1 { font-size: 1.5em !important; }
+p {
+  font-size: 0.75em !important;
+  text-align: left;
+}
+li {
+  font-size: 0.75em;
+}
