@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Psychological Safety for Engineering Teams"
-featured-img: a-new-beginning
-image: "/assets/img/posts/a-new-beginning.jpg"
+featured-img: agreement
+image: "/assets/img/posts/agreement.jpg"
 ---
 
 _Disclaimer: I am not a professionally trained organizational pscyhologist. What
