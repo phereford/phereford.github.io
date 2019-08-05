@@ -22,7 +22,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Books', link: '/books'}
-  - {name: 'PH Readme', link: '/readme.html'}
+  - {name: 'PH Readme', link: '/Readme.html'}
   #- {name: 'About', link: '/about'}
   #- {name: 'Contact', link: '/contact'}
   #- {name: 'My Readme', link: '/readme'}
