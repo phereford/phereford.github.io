@@ -23,6 +23,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Books', link: '/books'}
   - {name: 'PH Readme', link: '/Readme.html'}
+  - {name: 'Talks', link: '/talks'}
   #- {name: 'About', link: '/about'}
   #- {name: 'Contact', link: '/contact'}
   #- {name: 'My Readme', link: '/readme'}
